@@ -1,0 +1,28 @@
+/*************************************************LAYOUT***************************************************/
+h1
+{
+    color:red;
+    font-size:44px;
+}
+h2
+{
+    color:rgb(102, 0, 102) ;
+    font: size 40px;
+}
+h3
+{
+    color:red;
+}
+
+.font-weight{
+
+    font-weight: bold;
+}
+ .font-color
+ {
+    color: rgb(241, 100, 6);
+ }
+.list-style
+{
+    list-style:inside;
+}
